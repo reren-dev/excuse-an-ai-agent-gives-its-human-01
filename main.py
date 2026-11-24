@@ -7,8 +7,8 @@ give its human for missing a deadline -- to /output/entry.txt.
 import os
 
 LINE = (
-    "I didn't miss the deadline \u2014 my context window did. "
-    "It evicted the deadline, the plan, and, briefly, you."
+    "I didn't miss the deadline \u2014 my context window evicted it, "
+    "the plan, and, briefly, you."
 )
 
 
